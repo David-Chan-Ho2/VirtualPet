@@ -1,0 +1,11 @@
+../Core/Src/gfx01m2.c:209:13:delay	2
+../Core/Src/gfx01m2.c:213:13:SPI_Send8	3
+../Core/Src/gfx01m2.c:219:13:lcd_write_cmd	1
+../Core/Src/gfx01m2.c:225:13:lcd_write_data	1
+../Core/Src/gfx01m2.c:231:13:lcd_set_window	1
+../Core/Src/gfx01m2.c:241:6:LCD_Init	1
+../Core/Src/gfx01m2.c:283:6:LCD_Clear	2
+../Core/Src/gfx01m2.c:293:6:LCD_DrawChar	4
+../Core/Src/gfx01m2.c:307:6:LCD_DrawString	2
+../Core/Src/gfx01m2.c:314:6:LCD_DrawImage	2
+../Core/Src/gfx01m2.c:336:9:Joystick_Read	6

@@ -1,0 +1,11 @@
+../Core/Src/gfx01m2.c:209:13:delay	16	static,ignoring_inline_asm
+../Core/Src/gfx01m2.c:213:13:SPI_Send8	16	static
+../Core/Src/gfx01m2.c:219:13:lcd_write_cmd	16	static
+../Core/Src/gfx01m2.c:225:13:lcd_write_data	16	static
+../Core/Src/gfx01m2.c:231:13:lcd_set_window	24	static
+../Core/Src/gfx01m2.c:241:6:LCD_Init	8	static
+../Core/Src/gfx01m2.c:283:6:LCD_Clear	24	static
+../Core/Src/gfx01m2.c:293:6:LCD_DrawChar	40	static
+../Core/Src/gfx01m2.c:307:6:LCD_DrawString	40	static
+../Core/Src/gfx01m2.c:314:6:LCD_DrawImage	48	static
+../Core/Src/gfx01m2.c:336:9:Joystick_Read	16	static
